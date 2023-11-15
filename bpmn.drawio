@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T10:24:44.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2-9KL8eregLtQwp3M2dL" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T10:24:53.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cr9LP9zocpin2ldBkIvg" version="22.1.1" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1105" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -49,6 +49,9 @@
         </mxCell>
         <mxCell id="DJ_eqTxh3La7hmU4ZKmj-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DJ_eqTxh3La7hmU4ZKmj-3">
           <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DJ_eqTxh3La7hmU4ZKmj-23" value="Authorize" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="DJ_eqTxh3La7hmU4ZKmj-3">
+          <mxGeometry x="510" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DJ_eqTxh3La7hmU4ZKmj-9" value="Are you authorized?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;" vertex="1" parent="1">
           <mxGeometry x="540" y="265" width="50" height="50" as="geometry" />
